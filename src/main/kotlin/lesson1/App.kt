@@ -1,7 +1,13 @@
 package lesson1
 
 fun main(args: Array<String>) {
-    println("Pow!")
-    println("Pow!")
-    println("Pow!")
+    val x = 3
+    val y = 1
+
+    println(if (x > y) "x is greater than y" else "x is not greater than y")
+    println("This line runs no metter what")
+
+
 }
+
+
