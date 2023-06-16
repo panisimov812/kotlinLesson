@@ -1,4 +1,4 @@
-package lesson2.`fun`
+package book.`fun`
 
 
 //функция получает один параметр

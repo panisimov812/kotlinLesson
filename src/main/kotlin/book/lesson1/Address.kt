@@ -1,4 +1,4 @@
-package lesson1
+package book.lesson1
 
 class Address {
     var name: String = "Petr"
@@ -8,7 +8,7 @@ class Address {
     var zip: String = "1234"
 
     //обращение к свойству
-fun copyAddress(address: Address): Address{
+fun copyAddress(address: Address): Address {
         val result = Address() //в котлин нет слова new
         result.name = address.name //вызов метода доступа
         return result

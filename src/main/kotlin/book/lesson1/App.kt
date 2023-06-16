@@ -1,4 +1,4 @@
-package lesson1
+package book.lesson1
 
 fun main(args: Array<String>) {
     val x = 3

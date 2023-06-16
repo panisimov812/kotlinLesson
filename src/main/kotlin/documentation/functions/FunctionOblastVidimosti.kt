@@ -1,7 +1,5 @@
 package documentation.functions
 
-import org.graalvm.compiler.graph.Graph
-import sun.security.provider.certpath.Vertex
 
 //¬ Kotlin функции могут быть объ€влены в самом начале файла,
 // что значит, что вам необ€зательно создавать класс, чтобы воспользоватьс€ его функцией (как в Java, C# или Scala).
@@ -32,15 +30,15 @@ import sun.security.provider.certpath.Vertex
 //}
 
 //‘ункции члены
-//todo ‘ункции-члены - это функции, объ€вленные внутри классов или объектов.
-class Sample {
-    fun foo() { print("Foo") }
+////todo ‘ункции-члены - это функции, объ€вленные внутри классов или объектов.
+//class Sample {
+//    fun foo() { print("Foo") }
+//
+//    //‘ункции-члены вызываютс€ с использованием точки.
+//
+//    //Sample().foo() // создаЄт инстанс класса Sample и вызывает его функцию foo
 
-    //‘ункции-члены вызываютс€ с использованием точки.
-
-    //Sample().foo() // создаЄт инстанс класса Sample и вызывает его функцию foo
-
-}
+//}
 
 
 

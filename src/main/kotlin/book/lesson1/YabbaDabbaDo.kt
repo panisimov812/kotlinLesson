@@ -1,4 +1,4 @@
-package lesson1
+package book.lesson1
 
 fun main(arrgs: Array<String>) {
     var x = 1
