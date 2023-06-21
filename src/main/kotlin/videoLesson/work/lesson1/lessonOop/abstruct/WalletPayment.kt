@@ -1,4 +1,4 @@
-package videoLesson.lessonOop.abstruct
+package videoLesson.work.lesson1.lessonOop.abstruct
 
 class WalletPayment(sum: Float,
                     user: String,

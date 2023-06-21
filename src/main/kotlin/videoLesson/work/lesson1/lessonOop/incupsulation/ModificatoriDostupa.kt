@@ -1,4 +1,4 @@
-package videoLesson.lessonOop.incupsulation
+package videoLesson.work.lesson1.lessonOop.incupsulation
 
 class ModificatoriDostupa {
 

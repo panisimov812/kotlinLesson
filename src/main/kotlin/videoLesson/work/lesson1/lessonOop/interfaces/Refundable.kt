@@ -1,4 +1,4 @@
-package videoLesson.lessonOop.interfaces
+package videoLesson.work.lesson1.lessonOop.interfaces
 
 interface Refundable {
     fun refund(sum: Float)

@@ -1,4 +1,4 @@
-package videoLesson.lessonOop.nasledovanit
+package videoLesson.work.lesson1.lessonOop.nasledovanit
 
 class AnyCardPayment(sum: Float, user: String, shopId: String = "332") : PaymentConstruct(sum, user, shopId) {
     val card = Card()

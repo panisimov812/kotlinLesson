@@ -1,4 +1,4 @@
-package videoLesson.lessonOop.nasledovanit
+package videoLesson.work.lesson1.lessonOop.nasledovanit
 
 class Card {
     fun getCardNumber() = "123321312312"

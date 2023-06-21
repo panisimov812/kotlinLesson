@@ -1,4 +1,4 @@
-package videoLesson.lessonOop
+package videoLesson.work.lesson1.lessonOop
 
 class Payment {
     val id: String = ""

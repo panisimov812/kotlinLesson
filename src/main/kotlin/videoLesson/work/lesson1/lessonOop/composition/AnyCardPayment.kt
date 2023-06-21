@@ -1,4 +1,4 @@
-package videoLesson.lessonOop.composition
+package videoLesson.work.lesson1.lessonOop.composition
 
 class AnyCardPayment(sum: Float, name: String, id: Int = 12) {
     val cardInfo = CardInformation()
